@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gülce</h1>
-<h3 align="center">Computer Engineering Graduate, Software Developer..✨</h3>
+<h3 align="center">Computer Engineering, Software Developer..✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulceabaci&label=Profile%20views&color=0e75b6&style=flat" alt="gulceabaci" /> </p>
 
